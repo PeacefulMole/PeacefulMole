@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development, games and anime
 - 🌱 I’m currently learning basic website layout
 - 💞️ I’m looking to collaborate in any company with interesting projects
-- 📫 How to reach me: [Telegram](executeKitty.t.me)
+- 📫 How to reach me: executeKitty.t.me
 
 <!---
 PeacefulMole/PeacefulMole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
