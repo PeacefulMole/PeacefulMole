@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeacefulMole
-- 👀 I’m interested in frontend development, games and anime
-- 🌱 I’m currently learning front-end development
+- 👀 I’m interested in front-end development, games and anime
+- 🌱 I’m currently learning front-end development and study at RS School
 - 💞️ I’m looking to collaborate in any company with interesting projects
 - 📫 How to reach me: executeKitty.t.me
 
