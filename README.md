@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @PeacefulMole
-- 👀 I’m interested in front-end development, games and anime
-- 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate in any company with interesting projects
-- 📫 How to reach me: executeKitty.t.me
+- 👋 Hi, I'm @PeacefulMole
+- 👀 I'm interested in web development, games and anime
+- 🌱 I'm currently learning everything I can get my hands on
+- 💞️ I want to collaborate in any company with interesting projects
+- 📫 How to contact me: executeKitty.t.me
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6463829a410780a6d9b5d9a9?variant=dark)](https://roadmap.sh)
 
 <!---
 PeacefulMole/PeacefulMole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
