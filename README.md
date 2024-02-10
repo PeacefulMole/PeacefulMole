@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @PeacefulMole
-- 👀 I'm interested in web development, games and anime
-- 🌱 I'm currently learning everything I can get my hands on
-- 💞️ I want to collaborate in any company with interesting projects
+- 👀 I'm interested in backend development, games and anime
+- 🌱 I'm currently studying programming
+- 💞️ I work at Yandex, but unfortunately not as a developer.
 - 📫 How to contact me: executeKitty.t.me
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6463829a410780a6d9b5d9a9?variant=dark)](https://roadmap.sh)
